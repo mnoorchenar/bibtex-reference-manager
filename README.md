@@ -25,8 +25,8 @@ pinned: false
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/%E2%96%B6_Live_Demo-Hugging_Face_Space-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/mnoorchenar/scopus)
-[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mnoorchenar/scopus)
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6_Live_Demo-Hugging_Face_Space-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/mnoorchenar/bibtex-reference-manager)
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mnoorchenar/bibtex-reference-manager)
 
 <br/>
 
@@ -90,7 +90,7 @@ python app.py
 ```
 
 ### Hugging Face Spaces
-Already deployed at: `huggingface.co/spaces/mnoorchenar/scopus`
+Already deployed at: `huggingface.co/spaces/mnoorchenar/bibtex-reference-manager`
 
 ---
 
@@ -161,7 +161,7 @@ All processed references saved to `refs_management.db`:
 ## 📁 Project Structure
 
 ```
-Scopus/
+bibtex-reference-manager/
 │
 ├── 📂 Refs/
 │   ├── Others/
@@ -241,8 +241,8 @@ Distributed under the **MIT License**.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:06b6d4&height=120&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Mohammad%20Noorchenarboo&fontColor=ffffff&fontSize=18&fontAlignY=80" width="100%"/>
 
-[![Star on GitHub](https://img.shields.io/badge/%E2%AD%90_Star-on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mnoorchenar/scopus/stargazers)
-[![Fork on GitHub](https://img.shields.io/badge/%F0%9F%8D%B4_Fork-on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mnoorchenar/scopus/fork)
+[![Star on GitHub](https://img.shields.io/badge/%E2%AD%90_Star-on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mnoorchenar/bibtex-reference-manager/stargazers)
+[![Fork on GitHub](https://img.shields.io/badge/%F0%9F%8D%B4_Fork-on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mnoorchenar/bibtex-reference-manager/fork)
 
 <sub>The name "Reference Management System" is used purely for academic and research purposes. Any similarity to existing product names or trademarks is entirely coincidental. This project has no affiliation with any commercial entity.</sub>
 
